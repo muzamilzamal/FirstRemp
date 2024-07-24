@@ -1,0 +1,5 @@
+print("python with_shajjar")
+2+3
+2+4
+2+5
+print(" Hello World")
